@@ -2,7 +2,7 @@ class Bs < Formula
   desc "CLI for bson/json converter"
   homepage "https://github.com/hitochan777/bs"
   url "https://github.com/hitochan777/bs/releases/download/0.3.0/bs-0.3.0-x86_64-linux.tar.gz"
-  sha256 "8fa6d739885c681c1e62a16e5193e1615ae72e7001329515925862c829e3b2d2"
+  sha256 "b8d6ed1f065f59f08080499316589106feb92b896647a2849224935e43f0a845"
   version "0.3.0"
 
   def install
