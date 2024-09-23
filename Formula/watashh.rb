@@ -6,7 +6,7 @@ class Watashh < Formula
   version "0.1.0"
 
   def install
-    mv @@binname, 'watashh'
+    mv 'cli', 'watashh'
     bin.install "watashh"
   end
 end
